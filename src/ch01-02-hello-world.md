@@ -1,8 +1,11 @@
-## Hello, World!
+## Hello, World! 出生宣言
 
 Now that you’ve installed Rust, let’s write your first Rust program. It’s
 traditional when learning a new language to write a little program that prints
 the text `Hello, world!` to the screen, so we’ll do the same here!
+
+现在您已经安装了Rust，让我们编写您的第一个Rust程序。 它的
+传统的学习一门新语言写一个小程序，打印出文本“Hello，world！”到屏幕上，所以我们也会这样做！
 
 > Note: This book assumes basic familiarity with the command line. Rust makes
 > no specific demands about your editing or tooling or where your code lives, so
